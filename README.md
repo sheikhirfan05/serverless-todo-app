@@ -1,3 +1,14 @@
+# 🧩 Serverless To-Do App  
+[![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)](https://aws.amazon.com/)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)
+[![DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-4053D6?logo=amazondynamodb)](https://aws.amazon.com/dynamodb/)
+[![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=awslambda)](https://aws.amazon.com/lambda/)
+[![API Gateway](https://img.shields.io/badge/AWS-API%20Gateway-593D88?logo=amazonapigateway)](https://aws.amazon.com/api-gateway/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> 🚀 A fully serverless CRUD API built with **AWS Lambda**, **API Gateway**, and **DynamoDB**.  
+> Designed for beginners learning **Python + AWS Cloud Integration**.
+
 # 🧩 Serverless To-Do Application (AWS Lambda + API Gateway + DynamoDB)
 
 A fully **serverless To-Do API** built with **AWS Lambda**, **API Gateway**, and **DynamoDB** — designed for beginners learning AWS Cloud & Python integration.  
