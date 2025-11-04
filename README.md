@@ -294,4 +294,4 @@ Example output:
 ## 👨‍💻 Author
 **Avinash S**  
 AWS Cloud Engineer | Python Developer  
-📂 GitHub: [https://github.com/avinashmax](https://github.com/avinashmax)
+🌐 [GitHub Profile](https://github.com/avinashmax)
